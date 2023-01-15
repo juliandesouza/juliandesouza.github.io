@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+I'm a journalist with more than 9 years in business communication. 
 
-Maybe say a some things about yourself.
+Currently, in process of career transition, 
 
-Or maybe what you plan to blog about.
+studying B.Sc. in System Analysis and Development to expand my knowledge of technology. 
+
+This blog is an exercise to share what I'm learning.
